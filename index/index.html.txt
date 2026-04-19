@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JWork Properties - Home</title>
+  <style>
+    body { margin:0; font-family:Arial; background:#fff; color:#1b5e20; }
+    header { background:#1b5e20; color:#fff; padding:20px; text-align:center; }
+    nav a { color:white; margin:0 10px; text-decoration:none; font-weight:bold; }
+    .hero { padding:60px 20px; text-align:center; }
+    footer { background:#1b5e20; color:white; text-align:center; padding:20px; margin-top:40px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>JWork Properties</h1>
+  <!-- Add your logo below if you want -->
+  <!-- <img src="logo.png" alt="Logo" width="120"> -->
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="media.html">Media</a>
+  </nav>
+</header>
+
+<div class="hero">
+  <h1>Welcome to JWork Properties</h1>
+  <p>We specialize in property services such as renovations, maintenance, and improvements. Reliable work you can trust.</p>
+</div>
+
+<div class="hero">
+  <h2>Our Services</h2>
+  <p>Add your exact services here (ex: remodeling, landscaping, repairs, etc.)</p>
+</div>
+
+<footer>
+  <p>Contact Us</p>
+  <p>Phone: YOUR NUMBER HERE</p>
+  <p>Email: YOUR EMAIL HERE</p>
+</footer>
+
+</body>
+</html>
